@@ -56,5 +56,9 @@ footer {
                 }
             }
         }
+
+        & .copy {
+            margin-left: auto;
+        }
     }
 }
